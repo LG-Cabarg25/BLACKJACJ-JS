@@ -64,7 +64,7 @@ const crearImg = (carta) => {
   return imgCarta;
 };
 
-//Turno Computadora
+//Turno Computadora M
 const turnoComputadora = (puntosMinimos) => {
   do {
     const carta = pedirCarta();
